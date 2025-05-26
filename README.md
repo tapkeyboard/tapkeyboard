@@ -1,5 +1,4 @@
-
-- 👀 I’m interested in ... computer scinece
+👀 I’m interested in ... computer scinece
 
 <!---
 tapkeyboard/tapkeyboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
