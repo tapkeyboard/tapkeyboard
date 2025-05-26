@@ -1,7 +1,5 @@
-- 👀 I’m interested in ... computer scinece
-- $$y_j = f(sum(w_ji * x_i) + b_j)$
-- $delta = c1 * E / N + c2 * D / N + c3 * W$
-- $delta = (c1 * E / N) + (c2 * D / N) + (c3 * W_bar)$
+I’m interested in computer scinece
+$$\delta = \frac{c_1 E}{N} + \frac{c_2 D}{N} + c_3 \bar{W}$$
 
 <!---
 tapkeyboard/tapkeyboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
